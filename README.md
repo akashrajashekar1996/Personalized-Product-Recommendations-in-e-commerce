@@ -1,6 +1,6 @@
 ## Recommendation system implementation based on clustering, text similarity and collaborative filtering
 
-###### BIG DATA and DATA MINING projects by Alan Ramponi (151369) and Davide Martintoni (171076).
+
 
 --
 
